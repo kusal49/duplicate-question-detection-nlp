@@ -74,4 +74,9 @@ All features are concatenated and passed into the ML classifier.
 
 ---
 
+## 🐳 Run via Docker
+```bash
+docker pull kusal49/duplicate-question-nlp
+docker run -p 8501:8501 kusal49/duplicate-question-nlp
+
 
