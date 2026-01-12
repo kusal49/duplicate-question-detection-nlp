@@ -1,0 +1,10 @@
+streamlit
+sklearn
+fuzzywuzzy
+distance
+bs4
+numpy
+scikit-learn
+nltk
+python-Levenshtein
+
