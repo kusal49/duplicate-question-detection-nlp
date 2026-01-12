@@ -74,5 +74,4 @@ All features are concatenated and passed into the ML classifier.
 
 ---
 
-## 📦 Project Structure
 
