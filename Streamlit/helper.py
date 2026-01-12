@@ -4,6 +4,8 @@ import distance
 from fuzzywuzzy import fuzz
 import pickle
 import numpy as np
+import nltk
+nltk.download("stopwords")
 from nltk.corpus import stopwords
 import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
