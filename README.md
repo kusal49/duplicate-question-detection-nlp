@@ -1,4 +1,4 @@
-# Duplicate Question Detection using NLP
+# Semantic Duplicate Question Detection System
 
 This project is an end-to-end **Natural Language Processing (NLP) system** that detects whether two questions are semantically duplicate, similar to Quora’s duplicate question detection system.
 
